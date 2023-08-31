@@ -1,2 +1,10 @@
 ## Interface: 33400
 ## Title: BohemianV2
+## Version: 0.0.1
+## Notes: A simple addon to help with the Bohemian lions guild
+## Author: Mimolet
+## SavedVariables: BohemianV2DB
+## DefaultState: enabled
+## OptionalDeps:
+
+Main.lua
